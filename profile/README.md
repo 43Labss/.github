@@ -1,13 +1,13 @@
 <h1 align="center">✨ 43Labs ✨</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=30&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Zero+→+One+→+100;We+turn+ambitious+ideas+into+working+products;Fast.+Reliable.+Innovative." alt="4xLabs Tagline" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=30&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Zero+→+One+→+100;We+turn+ambitious+ideas+into+reality;Fast.+Reliable.+Innovative." alt="4xLabs Tagline" />
 </p>
 
 ---
 
 ## 🚀 About Us
-At **4xLabs**, we specialize in transforming **ambitious ideas** into **working products — fast**.  
+At **4xLabs**, we specialize in transforming **ambitious ideas** into **working products fast**.  
 We are a team of passionate developers, designers, and creators who help businesses, startups, and individuals bring their visions to life.  
 
 ---
@@ -42,7 +42,7 @@ We are a team of passionate developers, designers, and creators who help busines
   <a href="https://linkedin.com/company/4xlabs">
     <img src="https://img.shields.io/badge/🌐%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/4xlabs">
+  <a href="https://github.com/43labss">
     <img src="https://img.shields.io/badge/⚡%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
