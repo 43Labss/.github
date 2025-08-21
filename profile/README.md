@@ -1,4 +1,4 @@
-<h1 align="center">✨ 4xLabs ✨</h1>
+<h1 align="center">✨ 43Labs ✨</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=30&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Zero+→+One+→+100;We+turn+ambitious+ideas+into+working+products;Fast.+Reliable.+Innovative." alt="4xLabs Tagline" />
