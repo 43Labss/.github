@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 About Us
-At **4xLabs**, we specialize in transforming **ambitious ideas** into **working products fast**.  
+At **43Labs**, we specialize in transforming **ambitious ideas** into **working products fast**.  
 We are a team of passionate developers, designers, and creators who help businesses, startups, and individuals bring their visions to life.  
 
 ---
